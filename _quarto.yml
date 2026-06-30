@@ -37,6 +37,6 @@ website:
 
 format:
   html:
-    theme: sketchy
+    theme: minty
     css: styles.css
     toc: true
