@@ -1,5 +1,5 @@
 ---
-title: "PABST (and BAM!)"
+title: "PaBST (and BaM!)"
 listing:
   - id: meetings
     contents: "*/index.qmd"
