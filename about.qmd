@@ -1,0 +1,16 @@
+---
+title: "About"
+---
+
+PaBST (and BaM!) — *Philosophy and Biology Shop Talks*, alongside the *Biology
+and Models* Camp — is an annual workshop with a deliberately broad remit: anything
+where biology and philosophy genuinely meet.
+
+{{< lipsum 2 >}}
+
+## Get involved
+
+Want to host a future meeting, propose a talk, or join the mailing list? Reach
+out to the organisers listed on each year's **People** page.
+
+{{< lipsum 1 >}}

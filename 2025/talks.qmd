@@ -1,0 +1,35 @@
+---
+title: "Talks — 2025"
+---
+
+The 2025 meeting ran at the Lodge, **15–20 June 2025**. Abstracts below.
+
+## Keynote: What Mechanisms Leave Out {#keynote}
+
+**Howard Tealeaf** — Australian National University
+
+{{< lipsum 2 >}}
+
+## Function Without Teleology: A Progress Report
+
+**Sofia Marchetti** — University of Bologna
+
+{{< lipsum 1 >}}
+
+## Modularity Is in the Eye of the Modeller
+
+**Wei Chen** — National University of Singapore
+
+{{< lipsum 1 >}}
+
+## How Robust Is the Robustness Argument?
+
+**Aroha Tipene** — University of Auckland
+
+{{< lipsum 1 >}}
+
+## Panel: Does Evo-Devo Need Its Own Philosophy?
+
+Chaired by **Gregor Halvorsen**, with the day's speakers.
+
+{{< lipsum 1 >}}

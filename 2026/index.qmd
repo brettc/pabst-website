@@ -1,0 +1,18 @@
+---
+title: "2026"
+description: "The Lodge · 21–26 June 2026 · Philosophy and Biology Shop Talks"
+---
+
+PaBST 2026 — *Philosophy and Biology Shop Talks* — ran from **21–26 June 2026**,
+a week of talks, walks, and long conversations at the Lodge. The week also hosted
+the **BaM!** (*Biology and Models*) Camp, whose participants gave the Tuesday
+lightning talks.
+
+The workshop was funded by the **John Templeton Foundation** through the grant
+*"The Emergence and Evolution of Goal-Directed Behavior in Collective Entities."*
+
+## On this page
+
+- [Talks](talks.qmd) — the full week's programme
+- [People](people.qmd) — speakers, organisers, and participants
+- [Photos](photos.qmd) — snapshots from the meeting

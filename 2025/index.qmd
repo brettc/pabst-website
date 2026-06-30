@@ -1,0 +1,16 @@
+---
+title: "2025"
+description: "The Lodge · 15–20 June 2025"
+---
+
+The 2025 meeting was held at **the Lodge**, the workshop's regular home — a week
+of talks and long walks. The theme was *Mechanism, Function, and the Explanatory
+Reach of Evo-Devo*.
+
+{{< lipsum 2 >}}
+
+## On this page
+
+- [Talks](talks.qmd) — the full programme and abstracts
+- [People](people.qmd) — speakers and organisers
+- [Photos](photos.qmd) — snapshots from the meeting

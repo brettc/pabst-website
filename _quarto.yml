@@ -1,0 +1,42 @@
+project:
+  type: website
+  preview:
+    # port: 4500
+    browser: true
+
+website:
+  title: "PaBST (and BaM!)"
+  page-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "2026"
+        menu:
+          - href: 2026/index.qmd
+            text: Overview
+          - href: 2026/talks.qmd
+            text: Talks
+          - href: 2026/people.qmd
+            text: People
+          - href: 2026/photos.qmd
+            text: Photos
+      - text: "2025"
+        menu:
+          - href: 2025/index.qmd
+            text: Overview
+          - href: 2025/talks.qmd
+            text: Talks
+          - href: 2025/people.qmd
+            text: People
+          - href: 2025/photos.qmd
+            text: Photos
+      - href: about.qmd
+        text: About
+  page-footer: "PaBST (and BaM!) — an annual meeting."
+
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+    toc: true

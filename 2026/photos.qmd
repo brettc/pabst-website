@@ -1,0 +1,20 @@
+---
+title: "Photos — 2026"
+---
+
+A few snapshots from the Lodge. (Drop image files into `2026/photos/` and add
+them to the gallery below.)
+
+::: {layout-ncol=3}
+![Registration desk](photos/placeholder.svg){group="2026"}
+
+![Keynote session](photos/placeholder.svg){group="2026"}
+
+![Conference dinner](photos/placeholder.svg){group="2026"}
+
+![Harbour walk](photos/placeholder.svg){group="2026"}
+
+![Poster session](photos/placeholder.svg){group="2026"}
+
+![Closing panel](photos/placeholder.svg){group="2026"}
+:::

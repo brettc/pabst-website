@@ -1,0 +1,29 @@
+---
+title: "People — 2025"
+---
+
+## Speakers
+
+**Howard Tealeaf** — Australian National University
+: Works on the limits of mechanistic explanation in the life sciences.
+  {{< lipsum 1 >}}
+
+**Sofia Marchetti** — University of Bologna
+: Studies biological function and the legacy of teleological language.
+  {{< lipsum 1 >}}
+
+**Wei Chen** — National University of Singapore
+: Models developmental modularity and its discontents.
+  {{< lipsum 1 >}}
+
+**Aroha Tipene** — University of Auckland
+: Interested in robustness, canalisation, and what they explain.
+  {{< lipsum 1 >}}
+
+## Organisers
+
+**Gregor Halvorsen** — University of Melbourne (chair)
+: {{< lipsum 1 >}}
+
+**Lucia Fernández** — Monash University
+: {{< lipsum 1 >}}

@@ -1,0 +1,37 @@
+---
+title: "People — 2026"
+---
+
+## Organisers
+
+Derek Skillings, Patrick Forber, Rory Smead, Ben Allen, Katie Deaven, and
+Karen Kovaka.
+
+## Participants at large
+
+Malcolm Schug and Gwen Robbins Schug.
+
+## Speakers
+
+- **Roberta Millstein** — *keynote:* Aldo Leopold and Environmental Stewardship
+- Joseph O'Brien
+- Martin Li
+- Caleb Hazelwood
+- Gray Santana
+- Mika Smith
+- Leyre Celeda-Marcen
+- Gabbi Courtenay
+- Larissa Wilks
+- Peter Godfrey-Smith
+- Julia Pelletier
+- Matthew Maxwell
+- Stephen M. Downes
+- Hannah Rubin
+- Marshall Abrams
+- Saira Kahn
+- Brett Calcott
+- Katie Deaven
+- Karen Kovaka
+- Derek Skillings, Rory Smead & Patrick Forber
+
+See the [talks](talks.qmd) page for the full programme.

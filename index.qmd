@@ -1,0 +1,24 @@
+---
+title: "PABST (and BAM!)"
+listing:
+  - id: meetings
+    contents: "*/index.qmd"
+    type: grid
+    sort: "title desc"
+    fields: [title, description]
+    image-placeholder: assets/photos/placeholder.svg
+---
+
+**PaBST** — *Philosophy and Biology Shop Talks* — and its sibling **BaM!**
+(*Biology and Models*) Camp are an annual gathering of researchers working at the
+seams of biology and philosophy. Each year brings a week of talks, arguments, and
+long walks — held at the same retreat, the Lodge, every year.
+
+{{< lipsum 2 >}}
+
+## Meetings
+
+Browse a year below for its talks, people, and photos.
+
+:::{#meetings}
+:::

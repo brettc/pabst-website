@@ -1,0 +1,20 @@
+---
+title: "Photos — 2025"
+---
+
+A few snapshots from the Lodge. (Drop image files into `2025/photos/` and add
+them to the gallery below.)
+
+::: {layout-ncol=3}
+![Welcome reception](photos/placeholder.svg){group="2025"}
+
+![Morning session](photos/placeholder.svg){group="2025"}
+
+![Coffee break](photos/placeholder.svg){group="2025"}
+
+![Conference dinner](photos/placeholder.svg){group="2025"}
+
+![Poster session](photos/placeholder.svg){group="2025"}
+
+![Group photo](photos/placeholder.svg){group="2025"}
+:::
